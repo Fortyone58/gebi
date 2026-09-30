@@ -1,0 +1,9 @@
+{
+  "name": "gebi-demo-recorder",
+  "private": true,
+  "type": "commonjs",
+  "description": "自动驱动「隔壁」应用完成演示流程并录屏",
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}

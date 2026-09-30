@@ -1,0 +1,7 @@
+# 原始录屏素材、编码中间产物、字体、依赖 —— 都不进仓库
+02-raw/
+work/
+out/frames/
+node_modules/
+*.ttc
+package-lock.json
